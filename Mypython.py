@@ -1,1 +1,3 @@
-print("mypythone1")
+#print("mypythone1")
+a="hi"
+a
